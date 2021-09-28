@@ -1,0 +1,7 @@
+D:\Users\szyso\source\repos\Kurs c#\Zadania z tyg 2\Operators Homework\Operators Homework\bin\Debug\Operators Homework.exe.config
+D:\Users\szyso\source\repos\Kurs c#\Zadania z tyg 2\Operators Homework\Operators Homework\bin\Debug\Operators Homework.exe
+D:\Users\szyso\source\repos\Kurs c#\Zadania z tyg 2\Operators Homework\Operators Homework\bin\Debug\Operators Homework.pdb
+D:\Users\szyso\source\repos\Kurs c#\Zadania z tyg 2\Operators Homework\Operators Homework\obj\Debug\Operators Homework.csprojAssemblyReference.cache
+D:\Users\szyso\source\repos\Kurs c#\Zadania z tyg 2\Operators Homework\Operators Homework\obj\Debug\Operators Homework.csproj.CoreCompileInputs.cache
+D:\Users\szyso\source\repos\Kurs c#\Zadania z tyg 2\Operators Homework\Operators Homework\obj\Debug\Operators Homework.exe
+D:\Users\szyso\source\repos\Kurs c#\Zadania z tyg 2\Operators Homework\Operators Homework\obj\Debug\Operators Homework.pdb
