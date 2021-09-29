@@ -11,10 +11,10 @@ namespace Data_Types//Stwórz program, w którym zadeklarujesz zmienne dotycząc
     {
         static void Main(string[] args)
         {
-            string name, surname;
+            string name, surname, id;
             byte age;
             
-            long id,e;
+            long e;
             char s;
             Console.WriteLine("What is your name?");
             name = Console.ReadLine();
