@@ -1,0 +1,7 @@
+D:\Users\szyso\source\repos\Kurs c#\Zadanie 3\Zadanie 3\bin\Debug\Zadanie 3.exe.config
+D:\Users\szyso\source\repos\Kurs c#\Zadanie 3\Zadanie 3\bin\Debug\Zadanie 3.exe
+D:\Users\szyso\source\repos\Kurs c#\Zadanie 3\Zadanie 3\bin\Debug\Zadanie 3.pdb
+D:\Users\szyso\source\repos\Kurs c#\Zadanie 3\Zadanie 3\obj\Debug\Zadanie 3.csproj.CoreCompileInputs.cache
+D:\Users\szyso\source\repos\Kurs c#\Zadanie 3\Zadanie 3\obj\Debug\Zadanie 3.exe
+D:\Users\szyso\source\repos\Kurs c#\Zadanie 3\Zadanie 3\obj\Debug\Zadanie 3.pdb
+D:\Users\szyso\source\repos\Kurs c#\Zadanie 3\Zadanie 3\obj\Debug\Zadanie 3.csprojAssemblyReference.cache
