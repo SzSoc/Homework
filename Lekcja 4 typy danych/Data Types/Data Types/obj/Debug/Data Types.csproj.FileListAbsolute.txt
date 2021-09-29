@@ -1,7 +1,0 @@
-D:\Users\szyso\source\repos\Data Types\Data Types\bin\Debug\Data Types.exe.config
-D:\Users\szyso\source\repos\Data Types\Data Types\bin\Debug\Data Types.exe
-D:\Users\szyso\source\repos\Data Types\Data Types\bin\Debug\Data Types.pdb
-D:\Users\szyso\source\repos\Data Types\Data Types\obj\Debug\Data Types.csprojAssemblyReference.cache
-D:\Users\szyso\source\repos\Data Types\Data Types\obj\Debug\Data Types.csproj.CoreCompileInputs.cache
-D:\Users\szyso\source\repos\Data Types\Data Types\obj\Debug\Data Types.exe
-D:\Users\szyso\source\repos\Data Types\Data Types\obj\Debug\Data Types.pdb

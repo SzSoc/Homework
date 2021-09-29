@@ -1,6 +1,0 @@
-D:\Users\szyso\source\repos\Data Types T2\Data Types T2\bin\Debug\Data Types T2.exe.config
-D:\Users\szyso\source\repos\Data Types T2\Data Types T2\bin\Debug\Data Types T2.exe
-D:\Users\szyso\source\repos\Data Types T2\Data Types T2\bin\Debug\Data Types T2.pdb
-D:\Users\szyso\source\repos\Data Types T2\Data Types T2\obj\Debug\Data Types T2.csproj.CoreCompileInputs.cache
-D:\Users\szyso\source\repos\Data Types T2\Data Types T2\obj\Debug\Data Types T2.exe
-D:\Users\szyso\source\repos\Data Types T2\Data Types T2\obj\Debug\Data Types T2.pdb

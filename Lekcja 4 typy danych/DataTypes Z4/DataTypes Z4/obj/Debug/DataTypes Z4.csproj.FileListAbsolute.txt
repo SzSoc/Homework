@@ -1,7 +1,0 @@
-D:\Users\szyso\source\repos\Kurs c#\DataTypes Z4\DataTypes Z4\bin\Debug\DataTypes Z4.exe.config
-D:\Users\szyso\source\repos\Kurs c#\DataTypes Z4\DataTypes Z4\bin\Debug\DataTypes Z4.exe
-D:\Users\szyso\source\repos\Kurs c#\DataTypes Z4\DataTypes Z4\bin\Debug\DataTypes Z4.pdb
-D:\Users\szyso\source\repos\Kurs c#\DataTypes Z4\DataTypes Z4\obj\Debug\DataTypes Z4.csprojAssemblyReference.cache
-D:\Users\szyso\source\repos\Kurs c#\DataTypes Z4\DataTypes Z4\obj\Debug\DataTypes Z4.csproj.CoreCompileInputs.cache
-D:\Users\szyso\source\repos\Kurs c#\DataTypes Z4\DataTypes Z4\obj\Debug\DataTypes Z4.exe
-D:\Users\szyso\source\repos\Kurs c#\DataTypes Z4\DataTypes Z4\obj\Debug\DataTypes Z4.pdb

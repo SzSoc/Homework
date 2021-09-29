@@ -1,7 +1,0 @@
-D:\Users\szyso\source\repos\Kurs c#\Zadania z tyg 2\Lekcja 4 typy danych\Data types T5\Data types T5\bin\Debug\Data types T5.exe.config
-D:\Users\szyso\source\repos\Kurs c#\Zadania z tyg 2\Lekcja 4 typy danych\Data types T5\Data types T5\bin\Debug\Data types T5.exe
-D:\Users\szyso\source\repos\Kurs c#\Zadania z tyg 2\Lekcja 4 typy danych\Data types T5\Data types T5\bin\Debug\Data types T5.pdb
-D:\Users\szyso\source\repos\Kurs c#\Zadania z tyg 2\Lekcja 4 typy danych\Data types T5\Data types T5\obj\Debug\Data types T5.csprojAssemblyReference.cache
-D:\Users\szyso\source\repos\Kurs c#\Zadania z tyg 2\Lekcja 4 typy danych\Data types T5\Data types T5\obj\Debug\Data types T5.csproj.CoreCompileInputs.cache
-D:\Users\szyso\source\repos\Kurs c#\Zadania z tyg 2\Lekcja 4 typy danych\Data types T5\Data types T5\obj\Debug\Data types T5.exe
-D:\Users\szyso\source\repos\Kurs c#\Zadania z tyg 2\Lekcja 4 typy danych\Data types T5\Data types T5\obj\Debug\Data types T5.pdb
