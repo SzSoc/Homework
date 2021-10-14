@@ -1,0 +1,13 @@
+D:\Users\szyso\source\repos\Kurs c#\Zadania z tyg 2\Loops\T 9\T 9\bin\Debug\netcoreapp3.1\T 9.exe
+D:\Users\szyso\source\repos\Kurs c#\Zadania z tyg 2\Loops\T 9\T 9\bin\Debug\netcoreapp3.1\T 9.deps.json
+D:\Users\szyso\source\repos\Kurs c#\Zadania z tyg 2\Loops\T 9\T 9\bin\Debug\netcoreapp3.1\T 9.runtimeconfig.json
+D:\Users\szyso\source\repos\Kurs c#\Zadania z tyg 2\Loops\T 9\T 9\bin\Debug\netcoreapp3.1\T 9.runtimeconfig.dev.json
+D:\Users\szyso\source\repos\Kurs c#\Zadania z tyg 2\Loops\T 9\T 9\bin\Debug\netcoreapp3.1\T 9.dll
+D:\Users\szyso\source\repos\Kurs c#\Zadania z tyg 2\Loops\T 9\T 9\bin\Debug\netcoreapp3.1\T 9.pdb
+D:\Users\szyso\source\repos\Kurs c#\Zadania z tyg 2\Loops\T 9\T 9\obj\Debug\netcoreapp3.1\T 9.csprojAssemblyReference.cache
+D:\Users\szyso\source\repos\Kurs c#\Zadania z tyg 2\Loops\T 9\T 9\obj\Debug\netcoreapp3.1\T 9.AssemblyInfoInputs.cache
+D:\Users\szyso\source\repos\Kurs c#\Zadania z tyg 2\Loops\T 9\T 9\obj\Debug\netcoreapp3.1\T 9.AssemblyInfo.cs
+D:\Users\szyso\source\repos\Kurs c#\Zadania z tyg 2\Loops\T 9\T 9\obj\Debug\netcoreapp3.1\T 9.csproj.CoreCompileInputs.cache
+D:\Users\szyso\source\repos\Kurs c#\Zadania z tyg 2\Loops\T 9\T 9\obj\Debug\netcoreapp3.1\T 9.dll
+D:\Users\szyso\source\repos\Kurs c#\Zadania z tyg 2\Loops\T 9\T 9\obj\Debug\netcoreapp3.1\T 9.pdb
+D:\Users\szyso\source\repos\Kurs c#\Zadania z tyg 2\Loops\T 9\T 9\obj\Debug\netcoreapp3.1\T 9.genruntimeconfig.cache
